@@ -1,0 +1,6 @@
+[submodule "campusgig-frontend"]
+	path = campusgig-frontend
+	url = https://github.com/StoriuSs/campusgig-frontend.git
+[submodule "campusgig-backend"]
+	path = campusgig-backend
+	url = https://github.com/StoriuSs/campusgig-backend.git
